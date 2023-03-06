@@ -1,0 +1,31 @@
+.net core CLI
+https://learn.microsoft.com/en-us/dotnet/core/tools/
+
+--------------------------------------------------------------------
+		.Net Core
+	
+1. This is a complete re-write of .net framework 
+2. .Net framework was a very costly framework (the only 1 in industry)
+	For development lets say with 50 developers
+
+		50 Windows OS - Buy the licence - pay the cost
+		50 Visual Studio - Buy the licence - pay the cost
+		Host the app - Buy windows server - pay the cost 
+
+
+	where as - we this days have 
+		Angular, Node, React, backBone, knockOut - all this are free and cross platform 
+		They also have a huge and strong features which are needed today - against drawbacks in .net framework
+		This allowed free development
+	
+		Cloud has comeup - huge and beautiful services 
+			cloud is mosly unix-linux based, .net framework does fit here
+
+	-----------------------------------------------------------------------------------
+			Thus Microsoft gave us a framework - very rich in terms of features, open source, standards etc...
+				Which is 
+				Cross-Platform 
+				Free to use
+				.Net core - very rich and mostly based on Design patterns
+				.Net Core CLI - Command line interface - develop, build, test, run, host app using command line
+				VS Code - New IDE - free - like Visual Studio 

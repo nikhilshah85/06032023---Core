@@ -1,0 +1,60 @@
+What, Why, Where, how and when 
+.Net Core CLI
+ASP.Net Core MVC App Development
+ASP.net core WebAPI 
+	CORS
+EF Core (ORM) - for database interaction - CRUD operations
+oAuth - security feature - 2FA, login from FB, google, twitter etc..
+DI - dependency injection
+Middlware and services
+-----------------------------------------------
+		This are the basic features needed to develop any .net core app
+
+
+Name:
+Experience:
+Expectations:
+Background on ASP.net : Fresher / Experienced
+
+--------------------------------------------------
+Pre-req
+a. Fundamentals on 
+	OOPS and HTML, CSS and JS
+b. Software setup
+	Visual Studio Code (atleast on day)
+	Visual Studio 2019 / 2022
+	SQL Server 2014 or above SSMS
+
+	installed on your laptop
+	or
+	cognizant cloud lab
+--------------------------------------------------
+After this training - 
+u need to attend - atleast 1 of this to be project ready 
+ASP.Net Core MVC
+ASP.Net Core WebAPI 
+--------------------------------------------------
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
