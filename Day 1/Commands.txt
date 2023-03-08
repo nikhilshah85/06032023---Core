@@ -1,0 +1,14 @@
+dotnet new mvc --name firstCoreAPP
+dotnet build
+dotnet test
+dotnet run
+
+--------------------
+Try
+dotnet new webapi --name firstApiApp
+dotnet build
+dotnet run 
+
+
+dotnet --version
+

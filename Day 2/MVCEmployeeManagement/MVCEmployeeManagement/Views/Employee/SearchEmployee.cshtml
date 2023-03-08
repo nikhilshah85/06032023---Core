@@ -1,0 +1,25 @@
+﻿
+
+
+<form method="post">
+    <input type="number" placeholder="Enter Employee Number to search employee" class="form-control" name="employeeNo" />
+    <button class="btn btn-danger">Search Employee</button>
+</form>
+
+
+
+
+@if (ViewBag.isEmpSeach)
+{
+    <div style="background-color:purple;color:white">
+        <h3> Employee number : @ViewBag.employee.empNo </h3>
+        <h3> Employee name : @ViewBag.employee.empName </h3>
+        <h3> Employee designation : @ViewBag.employee.empDesignation </h3>
+        <h3> Employee salary : @ViewBag.employee.empSalary </h3>
+        <h3> Employee is Permenant : @ViewBag.employee.empIsPermenant </h3>
+    </div>
+}
+
+<h2 style="color:red"> @ViewBag.errMessage </h2>
+
+

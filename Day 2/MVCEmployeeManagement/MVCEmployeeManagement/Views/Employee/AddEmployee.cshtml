@@ -1,0 +1,22 @@
+﻿
+
+
+<form method="post">
+
+    <input type="number" placeholder="Enter New Employee Number" class="form-control" name="newEmp.empNo" />
+    <input type="text" placeholder="Enter New Employee Name" class="form-control" name="newEmp.empName" />
+    <select class="form-control" name="newEmp.empDesignation">
+        <option>Sales</option>
+        <option>HR</option>
+        <option>Accounts</option>
+        <option>Developer</option>
+    </select>
+
+    <input type="number" placeholder="Enter New Employee Salary" class="form-control" name="newEmp.empSalary" />
+    <input type="text" placeholder="Enter New Employee is permenant (1.Yes 0.No)" class="form-control" name="newEmp.empIsPermenant" />
+    
+    <button class="btn btn-warning">Add Employee</button>
+
+</form>
+
+<h1 style="color:lime">@ViewBag.addResult</h1>
