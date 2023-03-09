@@ -1,0 +1,23 @@
+
+
+
+Practice :
+	create a new database EmployeemanagementDB
+
+	add 2 tables 
+		deptInfo
+			deptNo int (pk)
+			deptName 
+			deptHead
+			deptLoc
+		employeeInfo
+			empNo (pk)
+			empName
+			empDesignation
+			empSalary
+			empIsPermenant
+
+	add default records
+create a new ASP.Net MVC application - use EF core and allow crud operations on both the tables
+
+		Tomorrow : WebAPI 
