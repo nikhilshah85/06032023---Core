@@ -1,0 +1,71 @@
+DI - Dependenncy Injection
+
+As a developer we have been createing lots of objects in project
+but we never wrote any code to 
+destroy the object (free up the memory)
+release the reference (clear the cache)
+close other resource used (eg. connection string)
+
+When the load on server increases - no request and response increases
+Objects stays in the memory and keeps on pileing - increaseing
+and thus there is a degradation in performance
+
+We should be writeing the destructor
+or implement
+IDisposable
+
+Mostly we do not write any code because we think = feel = been told it would be done
+Garbage Collector
+
+but we cannot rely on it in todays modern world application 
+u can call GC.Collect - on ur own - but not at all a good practice
+
+------------------------------------------------------
+	Thus, it says, do not worry about it
+	now onwards, RunTime will take care of Createing the object for you and destroy the object for you
+
+		Create the object in background and Inject it whereever needed in application
+		This is a Service provided to you by frameowkr, and this feature is called as a service - Dependency Injection
+		
+		To destroy the object, it provides you 3 methods
+		a. AddTranscient(typeof(Model)) 
+	           AddTranscient(typeof(Products)) - This will create the object, process the response, and destroy the object
+			Per Call - so new object is craeted for every new call on the server
+		b. AddScoped(typeof(Model))
+		   AddScoped(typeof(Products)) - This will create new object for every user, and destroy the object when user is gone
+				logout, sessiontime out, etc...
+			Per Session - 1 object per user
+		c. AddSingleTon(typeof(Model))
+		   AddSingleTon(typeof(Products)) - This will create 1 Object when server starts, and kills the object when server stops
+			SingleTon - Same object is used for all the users
+
+			
+			AddTranscient - use for dynamic data - eg. Stockmarket rates, cricketScoreCard, Payment Gateway, payTm, GPay, etc...
+			AddScoped - use this for when data is specific to user - eg. BankAcc login, 
+			AddSinleTon - use this for static data - eg. FlightSchedule
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
