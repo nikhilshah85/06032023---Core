@@ -1,0 +1,31 @@
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\bin\Debug\net7.0\appsettings.json
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\bin\Debug\net7.0\fetchAPI - calls.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\bin\Debug\net7.0\fetchAPI - calls.exe
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\bin\Debug\net7.0\fetchAPI - calls.deps.json
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\bin\Debug\net7.0\fetchAPI - calls.runtimeconfig.json
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\bin\Debug\net7.0\fetchAPI - calls.dll
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\bin\Debug\net7.0\fetchAPI - calls.pdb
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\staticwebassets\msbuild.fetchAPI - calls.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\staticwebassets\msbuild.build.fetchAPI - calls.props
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.fetchAPI - calls.props
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.fetchAPI - calls.props
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\scopedcss\bundle\fetchAPI - calls.styles.css
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\scopedcss\projectbundle\fetchAPI - calls.bundle.scp.css
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.dll
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\refint\fetchAPI - calls.dll
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.pdb
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\fetchAPI - calls.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\06032023 - Core\06032023---Core\Day 5\fetchAPI - calls\fetchAPI - calls\obj\Debug\net7.0\ref\fetchAPI - calls.dll

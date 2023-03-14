@@ -1,0 +1,48 @@
+﻿
+
+
+
+<script>
+    function getPostData()
+    {
+        var url = "https://jsonplaceholder.typicode.com/comments";
+
+        fetch(url).then(dataFormat => dataFormat.json())
+                  .then(result=>{
+                      //alert("Got the data");
+                      //console.log(result);
+
+                      $("table").append("<tr>" + 
+                        "<td> Id </td>" +
+                        "<td> Post </td>" +
+                        "<td> Name </td>" +
+                        "<td> Email </td>" +
+                    "<td> Body </td>" +
+                       "</tr>");
+
+                      for(var i=0;i<result.length;i++)
+                      {
+                          $("table").append("<tr>" + 
+                            "<td>"+ result[i].id +"</td>" +
+                           "<td>" + result[i].postId + "</td>" +
+                            "<td>"+ result[i].name +"</td>" +
+                            "<td>"+ result[i].email +"</td>" +
+                        "<td>" + result[i].body + "</td>" +
+                          
+                          "</tr>")
+                      }
+
+
+                  })
+                  .catch(err=>{
+                      alert('Error');
+                      console.log(err);
+                  })
+                 
+    }
+</script>
+
+
+
+<button class="btn btn-primary" onclick="getPostData()"> Show Post </button>
+<table class="table table-bordered" style="text-align:center"></table>

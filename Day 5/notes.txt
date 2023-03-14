@@ -1,0 +1,33 @@
+Try + Practice - Fetch API
+
+Make an API call to 
+https://jsonplaceholder.typicode.com/photos
+	This is called as Heatos
+
+	
+	display in a table 
+		AlbumId
+		Id
+		Title 
+		thumbnailUrl - display an image here
+		
+		
+
+https://www.geeksforgeeks.org/hateoas-and-why-its-needed-in-restful-api/
+---------------------------------------------------------------------------------------------
+Task 2 : Display Users in Div Tags
+https://jsonplaceholder.typicode.com/users
+
+<div>
+	<h3> Name  : </h3>
+	<h3> Email : </h3>
+	<h3> City: </h3>
+	<h3> Lat: </h3>	
+	<h3> Lng: </h3>
+	<h3> Company Name: </h3>
+	<h3> Company CatchPhrase : </h3>
+</div>
+
+
+
+
