@@ -1,0 +1,33 @@
+
+
+						CORS 
+
+
+
+ A very Important feature for .net core - CORS
+
+Task 1 : Create a new WebAPI - shoppingAPI -  application useing EF Core to read data from SQL Server - shoppingDB
+	This will have 2 table - Products - Customers
+	Make sure all the CRUD operations are working from API
+
+	We now need to share URL's with customers to consume the API 
+
+
+Task 2: Create a new MVC Application - shippingMVC 
+	Make calls to above api to display products on a view page
+
+
+
+	USE fetch api or HttpClint as per your convienent 
+------------------------------------------------------------------------------------------
+	There will be a problem in the end - and we will fix it useing CORS
+
+				
+				1. try - add a new view - add textbox and button, enter pid and display details
+				2. try to post the data as well - logical - not difficult
+				
+
+						
+
+
+

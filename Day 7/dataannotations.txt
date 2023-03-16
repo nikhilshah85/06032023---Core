@@ -1,0 +1,21 @@
+1. We will have to write data validations on a view page - use Jquery - javascript
+
+	Problem
+	1. you will have to write and attach on every page which this model proper is used
+	2. What if Javascript is disabled on client browser / machine
+
+Thus we will also have to write server side code, which is a double work
+	
+Make sure error messages in both the code are same
+
+----------------------------------------
+also the display of Model properties are not acceptable or presentable
+
+-----------------------------------------------------------------------------------------------------------------------
+
+	Thus we now use DataAnnotations from System.ComponentModel and apply attributes, which will take care of
+
+		a. Client Side Validation
+		b. Server Side Validation
+		c. Display Formats 
+	all of this done 1ce and centrally in the model file

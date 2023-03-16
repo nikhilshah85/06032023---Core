@@ -1,0 +1,35 @@
+﻿
+
+
+
+<script>
+    function getEmployees()
+    {
+        var url  ="https://localhost:7274/api/Employees";
+
+        fetch(url).then(responseType => responseType.json())
+                  .then(result => {
+                        alert('Got the data');
+
+                        for(var i=0;i<result.length;i++)
+                        {
+                            $("table").append("<tr>" +
+                                "<td>" + result[i].empNo + "</td>" +
+                                "<td>" + result[i].empName + "</td>" +
+                        "<td>" + result[i].empDesigantion + "</td>" +
+                        "<td>" + result[i].empSalary + "</td>" +
+                        "<td>" + result[i].empEmail + "</td>" +
+                        "<td>" + result[i].empIsPermenant + "</td>" +
+                             "</tr>")
+                        }
+
+                  })
+                  .catch(err => {
+                      alert('Errorrrrrrrrrrrr');
+                  })
+    }
+</script>
+
+<button class="btn btn-primary" onclick="getEmployees()"> Show Employees </button>
+
+<table class="table table-bordered"></table>

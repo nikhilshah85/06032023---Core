@@ -1,0 +1,26 @@
+
+			.Net Core Feature - Data Annotations - this is pre-generated code by core framework for data validations
+			useful to save time in Model and View
+
+			Validation of data is very important
+
+		We have system.ComponentModel.DataAnnotations
+
+		Which will take care of Client Side and Server Side validations without writing any code
+		also helps in Display Formats
+
+	-----------------------------------------------------------------------------------------------------------------------------	
+					Time : 15 Mins
+		a. Create a new Database
+			employeeManagement
+			add a table employee
+				empNo, empName, empDesigantion, empSalary, empEmail, empIsPermenant
+			add 2 recordss to this table
+
+		b. Create a new MVC application
+		c. Configure EF Core for application for the above database
+		d. create a controller for above table with views
+		e. update the layout page
+	-------------------------------------------------------------------------------------------------------------------------
+			
+				

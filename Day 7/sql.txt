@@ -1,0 +1,19 @@
+create database empManagement
+
+use empManagement
+
+create table employee
+(
+	empNo int primary key,
+	empName varchar(20),
+	empDesigantion varchar(20),
+	 empSalary int,
+	 empEmail varchar(20),
+	 empIsPermenant bit
+)
+
+insert into employee values(101,'Nikhil','Sales',5000,'nikhil@gmail.com',1)
+insert into employee values(102,'Nikhil','Sales',5000,'nikhil@gmail.com',1)
+insert into employee values(103,'Nikhil','Sales',5000,'nikhil@gmail.com',1)
+
+Microsoft.EntityFrameworkCore.SqlServer

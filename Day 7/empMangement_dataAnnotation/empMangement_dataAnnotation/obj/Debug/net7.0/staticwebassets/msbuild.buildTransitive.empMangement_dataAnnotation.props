@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\empMangement_dataAnnotation.props" />
+</Project>
